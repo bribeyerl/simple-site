@@ -1,0 +1,55 @@
+body{
+    background-color: #7BD2F7;
+    border: 5px solid #1FC25B;
+    color: white;
+    margin: 25px;
+    padding: 45px;
+}
+
+h1{
+    font-size: 42px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    float: right;
+    margin-left: 15px;
+    height: 25%;
+    width: 25%;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+nav{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a:link{
+    color: #1FC25B;
+}
+
+a:visited{
+    color: white;
+}
+
+a:active{
+    color: white;
+    border-bottom: none;
+}
